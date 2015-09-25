@@ -20,13 +20,8 @@ build:
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
-    - script:
-        name: echo
-        code: |
-          echo "hello world!"
     - arjen/hugo-build:
         version: 0.14
     - lukevivier/gh-pages@0.2.1:
-        token: $GIT_TOKEN
-        domain: kounoike.github.io
+        token: dummy$GIT_TOKEN
         basedir: public
