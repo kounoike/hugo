@@ -28,5 +28,5 @@ build:
         version: 0.14
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: hugo-wercker.ig.nore.me
+        domain: kounoike.github.io
         basedir: public
