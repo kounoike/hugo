@@ -10,8 +10,10 @@ h1.post-title {
 }
 
 article.post-summary {
-  margin-left: 2em;
-  background-color: #fff5ee;
+  margin-left: 1em;
+  border-left: 1px solid #880000;
+  padding-left: 0.5em;
+  background-color: #fffff8;
 }
 
 span.tag-item-separator {
