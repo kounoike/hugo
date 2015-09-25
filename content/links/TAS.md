@@ -13,4 +13,5 @@ title: TAS
 {{< nicovideo sm16498187 >}}
 {{< nicovideo sm22990748 >}}
 
+{{< nicovideoplayer sm23280135 >}}
 
