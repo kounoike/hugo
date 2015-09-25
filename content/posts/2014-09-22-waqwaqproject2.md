@@ -7,6 +7,7 @@ tags:
 - WAQWAQ
 - Python
 title: waqwaqproject2
+socialsharing: true
 ---
 
 [next49さんのリクエスト](http://d.hatena.ne.jp/next49/20140916/p1)に応じてスクリプトを改造してみた。<!--more-->ちょっと一つのCSVにまとめたりencodingの指定したりとかで依存ライブラリが増えてしまったけれど。

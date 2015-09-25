@@ -7,6 +7,7 @@ tags:
 - WAQWAQ
 - Python
 title: WAQWAQProject
+socialsharing: true
 ---
 
 next49さんが[WAQWAQプロジェクト2014](http://d.hatena.ne.jp/next49/20140831/p1)で進行状況チェックに

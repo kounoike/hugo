@@ -7,6 +7,7 @@ tags:
 - "twitter"
 - "ttytter"
 title: chinachu と ttytter で Twitter に録画投稿
+socialsharing: true
 ---
 
 # やること

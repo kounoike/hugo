@@ -6,6 +6,7 @@ tags:
 - "Hugo"
 - "nicovideo"
 title: Hugoのshortcodesでnicovideoの埋め込みを簡単にする
+socialsharing: true
 ---
 Hugoには[shortcodes](https://gohugo.io/extras/shortcodes/)という仕組みで、カスタムタグみたいなことを実現できるみたいです。
 そこで、ニコニコ動画の動画サムネイルやプレイヤーの埋め込みを行うshortcodesを書いてみました。

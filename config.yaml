@@ -14,9 +14,10 @@ permalinks:
 blackfriday:
   plainIdAnchors: true
 params:
+  socialsharing: true
   sidebartitle: "こーのいけのGitHub Page"
   Description: "GitHub Pageがしたい！"
-  notoc: false
+  notoc: true
   authortwitter: ko_noike
   highlightStyle: rainbow
 menu:
