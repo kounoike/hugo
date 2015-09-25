@@ -19,6 +19,7 @@ recordedCommand で Twitter に録画終了を投稿する。
 
 * [ttytterのセットアップ](http://kounoike.github.io/posts/2015-09-23-ttytter/) が出来ていること
 * chinachu がセットアップできていること
+* [jq](https://stedolan.github.io/jq/) を落としてきてあること
 
 # chinachu の設定
 
