@@ -24,4 +24,6 @@ build:
         name: echo
         code: |
           echo "hello world!"
+    - arjen/hugo-build:
+        version: 0.14
 
