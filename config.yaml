@@ -1,0 +1,19 @@
+---
+BaseURL: "http://kounoike.github.io/"
+title: "Kounoike's GitHub Pages"
+MetaDataFormat: yaml
+languagecode: "ja-jp"
+author:
+  name: "KOUNOIKE Yuusuke"
+  email: "kounoike.yuusuke@gmail.com"
+  github: "kounoike"
+  twitter: "ko_noike"
+permalinks:
+  post: /:year/:month/:day/:title 
+blackfriday:
+  plainIdAnchors: true
+params:
+  Description: "GitHub Pageがしたい！"
+  highlight_theme: "solarized_light"
+  notoc: false
+theme: hugo-redlounge
