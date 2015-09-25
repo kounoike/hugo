@@ -5,4 +5,6 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ if .Params.ogimage }}
 <meta property="og:image" content="{{ .Params.ogimage }}" />
+{{ else if .Site.Params.ogimage }}
+<meta property="og:image" content="{{ .Site.Params.ogimage }}" />
 {{ end }}
