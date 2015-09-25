@@ -1,0 +1,29 @@
+h1.post-title {
+  margin-bottom: 10px;
+}
+
+h1.post-title a{
+  border-bottom: 1px solid #111111;
+}
+
+article.post-summary {
+  margin-left: 2em;
+  background-color: #fffff0;
+}
+
+span.tag-item-separator {
+  font-weight: 100;
+  color: #E54028;
+  font-family: 'Raleway', 'Helvetica', 'Arial', sans-serif;
+  letter-spacing: -0.35rem;
+  margin-right: 0.4rem;
+}
+
+ul.tag-list {
+  list-style: none;
+}
+
+li.tag-item {
+  display: inline-block;
+  list-style-type: none;
+}

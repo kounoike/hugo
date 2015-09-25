@@ -1,8 +1,9 @@
 ---
 BaseURL: "http://kounoike.github.io/"
-title: "Kounoike's GitHub Pages"
+Title: "Kounoike's GitHub Pages"
 MetaDataFormat: yaml
 languagecode: "ja-jp"
+theme: hugo-redlounge
 author:
   name: "KOUNOIKE Yuusuke"
   email: "kounoike.yuusuke@gmail.com"
@@ -13,7 +14,21 @@ permalinks:
 blackfriday:
   plainIdAnchors: true
 params:
+  sidebartitle: "こーのいけのGitHub Page"
   Description: "GitHub Pageがしたい！"
   highlight_theme: "solarized_light"
   notoc: false
-theme: hugo-redlounge
+  authortwitter: ko_noike
+menu:
+  main: 
+    - name: "Blog"
+      url: "/posts"
+    - name: "Pages"
+      url: "/links"
+  social:
+    - pre: "<i class='fa fa-twitter'></i>"
+      url: "http://www.twitter.com/ko_noike"
+      identifier: "twitter"
+    - pre: "<i class='fa fa-github'></i>"
+      url: "https://github.com/kounoike"
+      identfier: "github"
