@@ -16,10 +16,9 @@ blackfriday:
 params:
   sidebartitle: "こーのいけのGitHub Page"
   Description: "GitHub Pageがしたい！"
-  highlight_theme: "solarized_light"
   notoc: false
   authortwitter: ko_noike
-  highlightStyle: solarized_light
+  highlightStyle: rainbow
 menu:
   main: 
     - name: "Blog"
