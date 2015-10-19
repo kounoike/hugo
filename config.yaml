@@ -19,6 +19,7 @@ params:
   Description: "GitHub Pageがしたい！"
   authortwitter: ko_noike
   highlightStyle: rainbow
+  gaid: UA-54218698-1
 menu:
   main: 
     - name: "Blog"
