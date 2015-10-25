@@ -1,5 +1,5 @@
 ---
-BaseURL: "http://kounoike.github.io/"
+BaseURL: "https://kounoike.github.io/"
 Title: "Kounoike's GitHub Pages"
 MetaDataFormat: yaml
 languagecode: "ja-jp"
@@ -28,7 +28,7 @@ menu:
       url: "/links"
   social:
     - pre: "<i class='fa fa-twitter'></i>"
-      url: "http://www.twitter.com/ko_noike"
+      url: "https://www.twitter.com/ko_noike"
       identifier: "twitter"
     - pre: "<i class='fa fa-github'></i>"
       url: "https://github.com/kounoike"

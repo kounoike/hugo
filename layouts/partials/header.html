@@ -4,6 +4,12 @@
     {{ .Title }}{{ if ne .Title .Site.Title }} // {{ .Site.Title }}{{ end }}
   </title>
 
+  <script type="text/javascript">
+    if(location.protocol == 'http:') {
+      location.replace(location.href.replace(/http:/, 'https:/')
+    }
+  </script>
+
   {{ partial "meta.html" . }}
 
   {{ partial "og.html" . }}
